@@ -49,3 +49,12 @@ body {
 .bg-white {
     background-color: white;
 }
+
+.nav-links a {
+    background-color: var(--dark-color);
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
